@@ -25,7 +25,8 @@
 ###
 
 <br clear="both">
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/WilleGyr/WilleGyr/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
