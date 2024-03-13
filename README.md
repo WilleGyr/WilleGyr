@@ -22,11 +22,9 @@
   <img src="https://skillicons.dev/icons?i=cmake" height="45" alt="cmake logo"  />
 </div>
 
-###
-
 <br clear="both">
 <p align="center">
-<img src="https://raw.githubusercontent.com/WilleGyr/WilleGyr/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/WilleGyr/WilleGyr/output/snake.svg" alt="Snake animation" />
 </p>
 
 ###
