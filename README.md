@@ -1,7 +1,31 @@
-<h1 align='center'>
-  William Gyrulf
-</h1>
+<h2 align="center">Hi 👋! My name is William and I'm a engineer student, from Sweden</h2>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilleGyr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=WilleGyr&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="45" alt="apple logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="45" alt="cmake logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/WilleGyr/WilleGyr/output/snake.svg" alt="Snake animation" />
+
+###
