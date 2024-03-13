@@ -26,6 +26,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu WilleGyr>/<seu WilleGyr>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/WilleGyr/WilleGyr/blob/output/github-contribution-grid-snake.gif)
 
 ###
