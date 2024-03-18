@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6910FF&center=true&random=false&width=435&lines=Welcome!;I'm+William+Gyrulf;A+software+engineer+student+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;From+Sweden%F0%9F%87%B8%F0%9F%87%AA" alt="Typing SVG" /></a>
-
-<h2 align="center">Hi 👋! I'm William, an engineering student 🧑🏼‍💻, from Sweden 🇸🇪</h2>
+<div align="center">
+<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6910FF&center=true&vCenter=true&random=false&width=600&lines=Welcome!;I'm+William+Gyrulf;A+software+engineer+student+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;From+Sweden%F0%9F%87%B8%F0%9F%87%AA" alt="Typing SVG" /></h2>
+</div>
 
 ###
 
