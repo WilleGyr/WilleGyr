@@ -17,7 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
   <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" height="45" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=md" height="45" alt="md logo"  />
-  <img src="https://www.dbvis.com/wp-content/uploads/2023/08/DbVis-Icon.png" height="48" alt="dbvis logo" />
   
   ###
   
@@ -28,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=windows" height="45" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="vscode logo"  />
+  <img src="https://www.dbvis.com/wp-content/uploads/2023/08/DbVis-Icon.png" height="48" alt="dbvis logo" />
 
   ###
 
