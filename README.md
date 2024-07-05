@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
   <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" height="45" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=md" height="45" alt="md logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="vscode logo"  />
   
   ###
   
@@ -32,7 +33,6 @@
   ###
 
   <p><h3> Studying </h3></p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="vscode logo"  />
 </div>
 
 
