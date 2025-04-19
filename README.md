@@ -67,3 +67,13 @@
 </p>
 
 ###
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+  <a href="https://github.com/WilleGyr/Spotify_Wrapped" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400" />
+  </a>
+</div>
+
+###
