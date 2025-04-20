@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=WilleGyr&locale=en&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400" />
 </div>
 
 ###
@@ -60,15 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WilleGyr/WilleGyr/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
-
-<h2 align="center">🚀 Featured Project</h2>
 
 <div align="center">
   <a href="https://github.com/WilleGyr/Spotify_Wrapped" target="_blank">
