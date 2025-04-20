@@ -68,7 +68,3 @@
 </p>
 
 ###
-
-<h2 align="center">🚀 Featured Project</h2>
-
-###
