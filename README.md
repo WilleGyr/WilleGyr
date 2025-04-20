@@ -60,12 +60,13 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
+<br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WilleGyr/WilleGyr/output/snake.svg" alt="Snake animation" />
+</p>
+
 ###
 
-<div align="center">
-  <a href="https://github.com/WilleGyr/Spotify_Wrapped" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400" />
-  </a>
-</div>
+<h2 align="center">🚀 Featured Project</h2>
 
 ###
