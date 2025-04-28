@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/qt/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/qt/4479A1" height="40" alt="qt logo"  />
 </div>
 
 ###
