@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=WilleGyr&locale=en&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <a href="https://github.com/WilleGyr/Spotify_Wrapped" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&cache_seconds=1800" height="150">
+  <img src="https://streak-stats.demolab.com?user=WilleGyr&locale=en&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5" height="150">
+  <a href="https://github.com/WilleGyr/Spotify_Wrapped">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400">
   </a>
 </div>
+
 
 ###
 
