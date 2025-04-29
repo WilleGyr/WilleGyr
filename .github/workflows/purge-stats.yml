@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Run curl PURGE
         run: |
-          curl -X PURGE "https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr"
+          curl -X PURGE "https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false"
