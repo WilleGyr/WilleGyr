@@ -1,0 +1,12 @@
+name: Purge GitHub Readme Stats Cache
+
+on:
+  workflow_dispatch:  # gör att du kan köra det manuellt
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run curl PURGE
+        run: |
+          curl -X PURGE "https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr"
