@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&cache_seconds=1800" height="150">
-  <img src="https://streak-stats.demolab.com?user=WilleGyr&locale=en&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5" height="150">
+  <img src="https://streak-stats.vercel.app?user=WilleGyr&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
   <a href="https://github.com/WilleGyr/Spotify_Wrapped">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400">
   </a>
