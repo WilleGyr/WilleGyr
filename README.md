@@ -1,12 +1,10 @@
 <div align="center">
   <h1>
     <a href="https://willegyr.github.io/" style="text-decoration: none; color: inherit;">
-      💻 William Gyrulf 📊
+      <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> William Gyrulf <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
     </a>
   </h1>
 </div>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&cache_seconds=1800" height="150">
