@@ -58,7 +58,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/qt/4479A1" height="40" alt="qt logo"  />
+  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
