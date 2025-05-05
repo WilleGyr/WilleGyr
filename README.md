@@ -37,7 +37,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/sqlite/4479A1" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo" />
 </div>
 
 ###
