@@ -9,9 +9,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleGyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&cache_seconds=1800" height="150">
   <img src="https://streak-stats.vercel.app?user=WilleGyr&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-  <a href="https://github.com/WilleGyr/Spotify_Wrapped">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" width="400">
-  </a>
 </div>
 
 
@@ -64,14 +61,14 @@
 
 ###
 
-<h2 align="center">📖 Learning</h2>
-
-###
-
+<h2 align="center">Projects </h2>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <a href="https://github.com/WilleGyr/Spotify_Wrapped">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" height="120">
+  </a><br>
+  <a href="https://github.com/WilleGyr/MinigolfScorecardApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=MinigolfScorecardApp&theme=material-palenight&hide_border=false" height="120">
+  </a>
 </div>
 
 <br clear="both">
