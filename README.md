@@ -65,7 +65,7 @@
 
 <h2 align="center">Projects </h2>
 <div align="center">
-  <a href="[https://github.com/WilleGyr/Spotify_Wrapped](https://github.com/WilleGyr/TextaGIF)">
+  <a href="https://github.com/WilleGyr/TextaGIF">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=TextaGIF&theme=material-palenight&hide_border=false" height="120">
   </a>
   <a href="https://github.com/WilleGyr/DartCounter">
