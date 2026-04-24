@@ -69,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=TextaGIF&theme=material-palenight&hide_border=false" height="120">
   </a><br>
   <a href="https://github.com/WilleGyr/MinigolfScorecardApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=MinigolfScorecardApp&theme=material-palenight&hide_border=false" height="120">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=MinigolfScorecardApp&theme=material-palenight&hide_border=false" width="450">
   </a><br>
   <a href="https://github.com/WilleGyr/ReWrapped">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=ReWrapped&theme=material-palenight&hide_border=false" height="120">
