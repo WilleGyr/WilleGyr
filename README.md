@@ -65,11 +65,20 @@
 
 <h2 align="center">Projects </h2>
 <div align="center">
-  <a href="https://github.com/WilleGyr/Spotify_Wrapped">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=Spotify_Wrapped&theme=material-palenight&hide_border=false" height="120">
+  <a href="[https://github.com/WilleGyr/Spotify_Wrapped](https://github.com/WilleGyr/TextaGIF)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=TextaGIF&theme=material-palenight&hide_border=false" height="120">
   </a><br>
   <a href="https://github.com/WilleGyr/MinigolfScorecardApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=MinigolfScorecardApp&theme=material-palenight&hide_border=false" height="120">
+  </a><br>
+  <a href="https://github.com/WilleGyr/ReWrapped">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=ReWrapped&theme=material-palenight&hide_border=false" height="120">
+  </a><br>
+  <a href="https://github.com/WilleGyr/MemeGen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=MemeGen&theme=material-palenight&hide_border=false" height="120">
+  </a><br>
+  <a href="https://github.com/WilleGyr/DartCounter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilleGyr&repo=DartCounter&theme=material-palenight&hide_border=false" height="120">
   </a>
 </div>
 
